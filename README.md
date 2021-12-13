@@ -6,4 +6,4 @@ new techniques. There are likely to be a fair few mistakes early on but I'm aimi
 
 Thanks for dropping by and sticking with the Readme.
 
-[![essuu27's GitHub stats](https://github-readme-stats.vercel.app/api?username=essuu27)](https://github.com/essuu27/github-readme-stats)
+[![essuu27's GitHub stats](https://github-readme-stats.vercel.app/api?username=essuu27&show_icons=true&theme=dark)](https://github.com/essuu27/github-readme-stats)
