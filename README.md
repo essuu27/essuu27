@@ -8,8 +8,13 @@ Thanks for dropping by and sticking with the Readme.
 
 ### Languages and Tools:
 ![Linux](https://www.vectorlogo.zone/logos/linux/linux-ar21.svg)
-![Apache webserver](https://www.vectorlogo.zone/logos/apache/apache-ar21.svg)
+![Apache webserver](https://img.shields.io/badge/apache-v1.1--v2.4-green)
+![perl](https://img.shields.io/badge/perl-v4.0--v5.1-blue)
 
-[![essuu27's GitHub stats](https://github-readme-stats.vercel.app/api?username=essuu27&show_icons=true&theme=dark)](https://github.com/essuu27/github-readme-stats)
+# My stats
+<div>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=essuu27&show_icons=true&theme=onedark&count_private=true"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=essuu27&hide=TeX&langs_count=10&theme=onedark&layout=compact&langs_count=7)](https://github.com/anuraghazra/github-readme-stats"/>
+</div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=essuu27)](https://github.com/essuu27/github-readme-stats)
