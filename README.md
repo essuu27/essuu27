@@ -14,7 +14,6 @@ Thanks for dropping by and sticking with the Readme.
 # My stats
 <div>
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=essuu27&show_icons=true&theme=onedark&count_private=true"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=essuu27&hide=TeX&langs_count=10&theme=onedark&layout=compact&langs_count=7)](https://github.com/anuraghazra/github-readme-stats"/>
-</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=essuu27)](https://github.com/essuu27/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=essuu27)](https://github.com/essuu27/github-readme-stats)
+</div>
