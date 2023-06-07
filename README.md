@@ -1,5 +1,5 @@
 ## Hi, I’m essuu27
-I've been coding and scripting in different languages for a few years. The languages I've used have been (*mainly*) C, bash, perl and PASCAL.
+I've been coding and scripting in different languages for a few years. The languages I've used have been (*mainly*) C, bash, perl and python.
 
 I thought I'd get back into scripting as I've been away for a while. I'll be using this space mainly for learning good coding style, best practices and 
 new techniques. There are likely to be a fair few mistakes early on but I'm aiming to learn from those.
@@ -12,8 +12,8 @@ Thanks for dropping by and sticking with the Readme.
 ![perl](https://img.shields.io/badge/perl-v4.0--v5.1-blue)
 
 # My stats
-<div>
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=essuu27&show_icons=true&theme=onedark&count_private=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=essuu27&show_icons=true&theme=onedark&count_private=true"/>
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=essuu27)](https://github.com/essuu27/github-readme-stats)
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=essuu27)]
+
+![Codewars](https://github.r2v.ch/codewars?user=essuu27)
