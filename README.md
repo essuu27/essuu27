@@ -16,4 +16,4 @@ Thanks for dropping by and sticking with the Readme.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=essuu27)]
 
-![Codewars](https://github.r2v.ch/codewars?user=essuu27)
+![Codewars](https://github.r2v.ch/codewars?user=essuu27&top_languages=true&theme=gradient_dark)
