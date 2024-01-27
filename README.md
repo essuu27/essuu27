@@ -12,10 +12,7 @@ Thanks for dropping by and sticking with the Readme.
 ![perl](https://img.shields.io/badge/perl-v4.0--v5.1-blue)
 
 # My stats
-[![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=essuu27)](https://github.com/ignacio-cuadra/github-readme-codewars)
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/?username=essuu27&show_icons=true&theme=onedark&count_private=true"/>
-
+[![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=essuu27)](https://github.com/essuu27/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=essuu27)]
 
 ![Codewars](https://github.r2v.ch/codewars?user=essuu27&top_languages=true&theme=gradient_dark)
