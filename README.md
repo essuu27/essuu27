@@ -27,3 +27,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=essuu27&show_icons=true&locale=en" alt="essuu27" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=essuu27&" alt="essuu27" /></p>
+
+<p><img align="center" src="https://www.codewars.com/users/essuu27/badges/small" alt="codewars" /></p>
