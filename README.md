@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=essuu27" alt="essuu27" /></a> </p>
 
-- 🔭 I’m currently working on **GCP transfer methods**
+- 🔭 I’m currently working on **AWS VPC setup and security**
 
-- 🌱 I’m currently learning **GCP, cloud security**
+- 🌱 I’m currently learning **AWS, cloud security**
 
 - 👯 I’m looking to collaborate on **cloud projects**
 
